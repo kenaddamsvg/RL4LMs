@@ -11,5 +11,5 @@ setup(
     packages=find_packages(),
     python_requires=">=3.7",
     install_requires=requirements,
-    url="https://github.com/allenai/RL4LMs",
+    url="https://github.com/kenaddamsvg/RL4LMs",
 )
